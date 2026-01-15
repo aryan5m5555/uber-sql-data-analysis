@@ -56,9 +56,10 @@ The dataset contains ride-level booking data including:
 
 ---
 
-## 📁 Files in This Repository
-- `Uber_SQL_Project.sql` → SQL queries & analysis
-- `Uber_SQL_Project_Report.docx` → Business analysis report
+## 📁Files in This Repository
+- `Uber_SQL_Project.sql` → SQL queries & analysis  
+- `Uber_SQL_Project_Report.docx` → Editable project documentation  
+- `Uber_SQL_Project_Report.pdf` → Viewable report for quick review
 
 ---
 
